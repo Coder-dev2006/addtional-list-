@@ -1,2 +1,2 @@
 # addtional-list-
-Oddiy Python dasturi: vazifalarni qo‘shish, ko‘rish va o‘chirish mumkin.   Vazifalar `tasks.txt` faylida saqlanadi.
+Oddiy Python dasturi: vazifalarni qo‘shish, ko‘rish va o‘chirish mumkin. 
